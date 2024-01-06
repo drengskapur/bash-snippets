@@ -1,6 +1,6 @@
 # Bash Snippets
 
-Self-contained copy-and-paste code bash snippets.
+Self-contained copy-and-paste bash code snippets.
 
 Installers
 
